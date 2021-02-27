@@ -15,5 +15,5 @@ In this project of [City Bike Analytics](https://public.tableau.com/profile/luis
 Have fun!
 
 
-The data was extracted from all months of 2016, then stored the csv in a "data" folder insdide this project, if you want to run the jupyter notebook, then you need to crerate this folder and put all months of 2016 in it, the website is: 
+The data was extracted from all months of 2016, then stored the csv in a "data" folder inside this project, if you want to run the jupyter notebook, then you need to create this folder and put all months of 2016 in it, the website is: 
 [city bike]: https://www.citibikenyc.com/system-data
